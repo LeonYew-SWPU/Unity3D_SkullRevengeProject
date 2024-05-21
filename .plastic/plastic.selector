@@ -1,0 +1,4 @@
+repository "SkullRevengeProject@leonyew@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
